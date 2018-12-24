@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+   <body>
+    <title> Test Result </title>
+	<p> -----------Test Result---------- <p>
+	<style>
+         table, th, td {
+             border: 1px solid black;
+             border-collapse: collapse;
+         }
+      </style>
+      <table border = 1 style="width:30%">
+	  
+         {% for key, value in dict.iteritems() %}
+         
+               <th> {{ key }} </th>
+		       <td> {{ value }} </td>
+            </tr>
+            
+         {% endfor %}
+      </table>
+      
+   </body>
+</html>

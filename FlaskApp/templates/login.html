@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+  {% block head %}
+    <title>Test Requests</title>
+  {% endblock %}
+  <link rel="stylesheet" type="text/css" href="../static/style.css">
+  <meta charset="utf-8">
+</head>
+   <body>
+         <h1 style="color:blue">Test Execution Requests</h1>
+         <form action = "/" method = "post">
+         <p style="color:brown">Create New Test Execution Request:<br>Requester : <input id = "Requester" type = "text" name = "Requester" required/>*</p>
+         <p style="color:brown" title="choose an ID between 1 and 100">Test Environment : <input type="number" min="1" max="100" value="1" name = "Test Environment">*</p>
+         <p style="color:brown">Interface : <select name = "Interface">
+            <option value="SOAP">SOAP</option>
+            <option value="REST">REST</option>
+            <option value="SQL">SQL</option>
+            <option value="ORM">ORM</option>
+            </select >*
+         </p>
+         <p style="color:brown">Test Template :
+            <select name="Test Template">
+            <option value="API_Test">API_Test</option>
+            <option value="Smoke">Smoke</option>
+            <option value="Regression">Regression</option>
+            <option value="Nightly">Nightly</option>
+            </select>*  Custom Path : <input type = "text" name = "Relative Path" /> (This Path is relative to the /tests/ subdirectory; if nothing is provided then default path is taken)
+         </p>
+         <p><input id = "Submit" type = "Submit" value = "Submit"/>        *Mandatory fields</p></form>
+		 <!--<meta http-equiv="refresh" content="1">-->
+		 <a href="/result.html">Test Result</a> <br><br>
+		 <a href="/log.html">Log</a><br><br>
+		 </form>
+		 
+         <a href="/log.html" /><br><br>
+         <style>
+         table, th, td {
+             border: 1px solid black;
+             border-collapse: collapse;
+         }
+         </style>
+                  <table style="width:100%">
+
+                    <tr style="background-color:white">
+                      <th>RequestID</th>
+                      <th>Requester</th>
+                      <th>Created</th>
+                      <th>TestEnvironment</th>
+                      <th>Template</th>
+                      <th>TestPlanIDs</th>
+                      <th>Status</th>
+					</tr>
+					{% for column in rows %}
+					{% if column[6] == "Completed" %}
+					<tr style= " background-color:grey">
+					{% endif %}
+					{% if column[6] == "Not Run" %}
+					<tr style= " background-color:white">
+					{% endif %}
+					{% if column[6] == "Fail" %}
+					<tr style= " background-color:red">
+					{% endif %}
+                    {% for column1 in column %}
+						<td>{{ column1 }}</td>
+			        {% endfor %}
+					</tr>
+					{% endfor %}
+					
+                  </table>
+
+   </body>
+</html>

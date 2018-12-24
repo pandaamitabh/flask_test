@@ -1,0 +1,12 @@
+<settings name="settings.xml" verbose="1">
+<data>
+		<!-- hostname or IP if hostname is not resolvable by DHCP" -->
+		<host name="10.131.12.176"></host>
+		<!-- Configure an open port" -->
+        <port name="8888"></port>
+		<!-- Location of log file -->
+		<log name="ApplicationRunner.pydebug.log"></log>
+		<!-- Location of test report file -->
+		<result name="testresult/report.csv"></result>
+</data>
+</settings>

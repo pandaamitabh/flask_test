@@ -1,0 +1,423 @@
+2018-04-21 01:44:21,395 - __main__ - INFO - Start the web application
+2018-04-21 01:44:22,145 - __main__ - INFO - Start the web application
+2018-04-21 01:44:24,552 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 01:44:35,288 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 01:44:35,288 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 01:44:35,288 - __main__ - INFO - Executing requested tests
+2018-04-21 01:44:41,882 - __main__ - INFO - Inserting table data
+2018-04-21 01:44:41,882 - __main__ - INFO - Updating table data
+2018-04-21 01:44:41,882 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 01:46:55,907 - __main__ - INFO - Start the web application
+2018-04-21 01:48:58,855 - __main__ - INFO - Start the web application
+2018-04-21 01:49:18,640 - __main__ - INFO - Error on fetching data from database is : global name 'conn' is not defined
+2018-04-21 01:49:38,134 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 01:49:38,134 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 01:49:38,134 - __main__ - INFO - Executing requested tests
+2018-04-21 01:49:44,703 - __main__ - INFO - Inserting table data
+2018-04-21 01:51:46,474 - __main__ - INFO - Start the web application
+2018-04-21 01:51:53,006 - __main__ - INFO - Start the web application
+2018-04-21 01:51:53,523 - __main__ - INFO - Start the web application
+2018-04-21 01:51:55,976 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 01:52:04,634 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 01:52:04,634 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 01:52:04,634 - __main__ - INFO - Executing requested tests
+2018-04-21 01:52:11,197 - __main__ - INFO - Inserting table data
+2018-04-21 01:52:11,197 - __main__ - INFO - Updating table data
+2018-04-21 01:52:11,197 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 01:53:39,068 - __main__ - INFO - Start the web application
+2018-04-21 01:54:04,887 - __main__ - INFO - Start the web application
+2018-04-21 01:54:09,355 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 01:54:18,029 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 01:54:18,029 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 01:54:18,029 - __main__ - INFO - Executing requested tests
+2018-04-21 01:54:24,561 - __main__ - INFO - Inserting table data
+2018-04-21 01:54:24,575 - __main__ - INFO - Updating table data
+2018-04-21 01:57:22,279 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 01:57:22,279 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 01:57:22,279 - __main__ - INFO - Executing requested tests
+2018-04-21 01:57:33,276 - __main__ - INFO - Inserting table data
+2018-04-21 01:57:33,290 - __main__ - INFO - Updating table data
+2018-04-21 01:58:24,869 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/hlhlhljljlj/
+2018-04-21 01:58:24,869 - __main__ - INFO - Path of the test execution is : hlhlhljljlj
+2018-04-21 01:58:24,869 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 02:03:51,115 - __main__ - INFO - Start the web application
+2018-04-21 02:04:07,194 - __main__ - INFO - Start the web application
+2018-04-21 02:17:07,823 - __main__ - INFO - Start the web application
+2018-04-21 02:17:25,338 - __main__ - INFO - Start the web application
+2018-04-21 02:18:56,378 - __main__ - INFO - Start the web application
+2018-04-21 02:18:56,878 - __main__ - INFO - Start the web application
+2018-04-21 02:19:35,749 - __main__ - INFO - Start the web application
+2018-04-21 02:19:36,374 - __main__ - INFO - Start the web application
+2018-04-21 02:21:06,223 - __main__ - INFO - Start the web application
+2018-04-21 02:21:27,319 - __main__ - INFO - Start the web application
+2018-04-21 02:23:24,164 - __main__ - INFO - Start the web application
+2018-04-21 02:25:20,210 - __main__ - INFO - Start the web application
+2018-04-21 02:35:40,096 - __main__ - INFO - Start the web application
+2018-04-21 02:35:41,035 - __main__ - INFO - Start the web application
+2018-04-21 02:36:16,757 - __main__ - INFO - Start the web application
+2018-04-21 02:38:13,562 - __main__ - INFO - Start the web application
+2018-04-21 02:43:29,954 - __main__ - INFO - Start the web application
+2018-04-21 02:44:18,032 - __main__ - INFO - Start the web application
+2018-04-21 02:45:34,191 - __main__ - INFO - Start the web application
+2018-04-21 02:45:55,335 - __main__ - INFO - Start the web application
+2018-04-21 02:56:23,785 - __main__ - INFO - Start the web application
+2018-04-21 02:56:24,285 - __main__ - INFO - Start the web application
+2018-04-21 02:57:28,875 - __main__ - INFO - Start the web application
+2018-04-21 02:59:17,490 - __main__ - INFO - Start the web application
+2018-04-21 02:59:18,006 - __main__ - INFO - Start the web application
+2018-04-21 03:00:03,069 - __main__ - INFO - Start the web application
+2018-04-21 03:07:23,528 - __main__ - INFO - Start the web application
+2018-04-21 03:07:24,012 - __main__ - INFO - Start the web application
+2018-04-21 03:26:17,200 - __main__ - INFO - Start the web application
+2018-04-21 03:32:00,808 - __main__ - INFO - Start the web application
+2018-04-21 03:35:49,727 - __main__ - INFO - Start the web application
+2018-04-21 03:35:50,150 - __main__ - INFO - Start the web application
+2018-04-21 03:35:53,104 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 03:40:34,279 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 03:40:34,279 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 03:40:34,279 - __main__ - INFO - Executing requested tests
+2018-04-21 03:42:03,976 - __main__ - INFO - Start the web application
+2018-04-21 03:42:04,868 - __main__ - INFO - Start the web application
+2018-04-21 03:44:02,361 - __main__ - INFO - Start the web application
+2018-04-21 03:44:02,986 - __main__ - INFO - Start the web application
+2018-04-21 03:46:13,710 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 03:46:13,710 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 03:46:13,710 - __main__ - INFO - Executing requested tests
+2018-04-21 03:46:20,278 - __main__ - INFO - Inserting table data
+2018-04-21 03:46:20,309 - __main__ - INFO - Updating table data
+2018-04-21 03:52:00,246 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 03:52:00,246 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 03:52:00,246 - __main__ - INFO - Executing requested tests
+2018-04-21 03:52:11,102 - __main__ - INFO - Inserting table data
+2018-04-21 03:52:11,118 - __main__ - INFO - Updating table data
+2018-04-21 03:58:17,763 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/dddddddd/
+2018-04-21 03:58:17,763 - __main__ - INFO - Path of the test execution is : dddddddd
+2018-04-21 03:58:17,763 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 04:02:10,953 - __main__ - INFO - Start the web application
+2018-04-21 04:02:33,572 - __main__ - INFO - Start the web application
+2018-04-21 04:02:33,572 - __main__ - INFO - Start the web application
+2018-04-21 04:03:53,381 - __main__ - INFO - Start the web application
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:04:17,802 - __main__ - INFO - Blank line exists.
+2018-04-21 04:04:17,802 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:06:40,095 - __main__ - INFO - Start the web application
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:06,519 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:06,519 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:10,130 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:10,130 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:07:32,700 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:07:32,700 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:19,407 - __main__ - INFO - Start the web application
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:08:26,502 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:08:26,502 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:11:16,470 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:11:16,470 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:12:11,786 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:12:11,786 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:13:52,496 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 04:13:52,496 - __main__ - INFO - Index Out of Range: 'type' object does not support item assignment
+2018-04-21 04:14:25,680 - __main__ - INFO - Start the web application
+2018-04-21 04:17:35,084 - __main__ - INFO - Start the web application
+2018-04-21 04:18:23,293 - __main__ - INFO - Start the web application
+2018-04-21 04:18:23,732 - __main__ - INFO - Start the web application
+2018-04-21 04:19:23,250 - __main__ - INFO - Start the web application
+2018-04-21 04:23:05,523 - __main__ - INFO - Start the web application
+2018-04-21 04:23:34,703 - __main__ - INFO - Start the web application
+2018-04-21 04:23:34,703 - __main__ - INFO - Start the web application
+2018-04-21 04:26:27,388 - __main__ - INFO - Start the web application
+2018-04-21 04:26:46,832 - __main__ - INFO - Start the web application
+2018-04-21 04:26:46,865 - __main__ - INFO - Start the web application
+2018-04-21 04:26:53,756 - __main__ - INFO - Start the web application
+2018-04-21 04:26:53,756 - __main__ - INFO - Start the web application
+2018-04-21 04:27:51,345 - __main__ - INFO - Start the web application
+2018-04-21 04:27:51,359 - __main__ - INFO - Start the web application
+2018-04-21 04:28:16,904 - __main__ - INFO - Start the web application
+2018-04-21 04:28:44,260 - __main__ - INFO - Start the web application
+2018-04-21 04:30:00,028 - __main__ - INFO - Start the web application
+2018-04-21 04:30:38,835 - __main__ - INFO - Start the web application
+2018-04-21 04:33:46,240 - __main__ - INFO - Start the web application
+2018-04-21 04:34:24,946 - __main__ - INFO - Start the web application
+2018-04-21 04:34:24,976 - __main__ - INFO - Start the web application
+2018-04-21 04:36:52,997 - __main__ - INFO - Start the web application
+2018-04-21 04:36:53,747 - __main__ - INFO - Start the web application
+2018-04-21 04:37:14,305 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 04:37:14,305 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 04:37:14,305 - __main__ - INFO - Executing requested tests
+2018-04-21 04:37:25,177 - __main__ - INFO - Inserting table data
+2018-04-21 04:37:25,211 - __main__ - INFO - Updating table data
+2018-04-21 04:38:57,457 - __main__ - INFO - Start the web application
+2018-04-21 04:38:58,364 - __main__ - INFO - Start the web application
+2018-04-21 04:39:25,072 - __main__ - INFO - Start the web application
+2018-04-21 04:41:19,869 - __main__ - INFO - Start the web application
+2018-04-21 04:41:31,956 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 04:41:31,956 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 04:41:31,956 - __main__ - INFO - Executing requested tests
+2018-04-21 04:41:42,842 - __main__ - INFO - Inserting table data
+2018-04-21 04:41:42,884 - __main__ - INFO - Updating table data
+2018-04-21 04:41:43,164 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 04:41:43,164 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 04:41:43,164 - __main__ - INFO - Executing requested tests
+2018-04-21 04:41:49,690 - __main__ - INFO - Inserting table data
+2018-04-21 04:41:49,721 - __main__ - INFO - Updating table data
+2018-04-21 08:41:58,825 - __main__ - INFO - Start the web application
+2018-04-21 08:43:09,186 - __main__ - INFO - Start the web application
+2018-04-21 08:43:53,154 - __main__ - INFO - Start the web application
+2018-04-21 08:43:57,953 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 08:43:57,953 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:43:57,953 - __main__ - INFO - Executing requested tests
+2018-04-21 08:44:08,834 - __main__ - INFO - Inserting table data
+2018-04-21 08:44:08,862 - __main__ - INFO - Updating table data
+2018-04-21 08:44:09,134 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:44:09,134 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:44:09,134 - __main__ - INFO - Executing requested tests
+2018-04-21 08:44:42,677 - __main__ - INFO - Start the web application
+2018-04-21 08:44:43,178 - __main__ - INFO - Start the web application
+2018-04-21 08:45:06,941 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 08:45:06,941 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:45:06,941 - __main__ - INFO - Executing requested tests
+2018-04-21 08:45:17,855 - __main__ - INFO - Inserting table data
+2018-04-21 08:45:17,892 - __main__ - INFO - Updating table data
+2018-04-21 08:45:18,167 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:45:18,167 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:45:18,167 - __main__ - INFO - Executing requested tests
+2018-04-21 08:48:42,812 - __main__ - INFO - Start the web application
+2018-04-21 08:48:56,451 - __main__ - INFO - Start the web application
+2018-04-21 08:49:01,309 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 08:49:01,309 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:49:01,309 - __main__ - INFO - Executing requested tests
+2018-04-21 08:49:12,174 - __main__ - INFO - Inserting table data
+2018-04-21 08:49:12,213 - __main__ - INFO - Updating table data
+2018-04-21 08:49:12,484 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:49:12,486 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:49:12,486 - __main__ - INFO - Executing requested tests
+2018-04-21 08:51:31,986 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/hjgjhgjgjg/
+2018-04-21 08:51:31,986 - __main__ - INFO - Path of the test execution is : hjgjhgjgjg
+2018-04-21 08:51:31,986 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 08:51:57,466 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:51:57,467 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:51:57,467 - __main__ - INFO - Executing requested tests
+2018-04-21 08:55:07,835 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:55:07,835 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:55:07,836 - __main__ - INFO - Executing requested tests
+2018-04-21 08:57:35,790 - __main__ - INFO - Start the web application
+2018-04-21 08:57:35,793 - __main__ - INFO - Start the web application
+2018-04-21 08:57:43,473 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 08:57:43,473 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 08:57:43,474 - __main__ - INFO - Executing requested tests
+2018-04-21 09:01:48,927 - __main__ - INFO - Start the web application
+2018-04-21 09:01:49,345 - __main__ - INFO - Start the web application
+2018-04-21 09:04:01,943 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 09:04:01,943 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 09:04:01,943 - __main__ - INFO - Executing requested tests
+2018-04-21 09:06:57,720 - __main__ - INFO - Start the web application
+2018-04-21 09:09:12,865 - __main__ - INFO - Start the web application
+2018-04-21 09:10:21,937 - __main__ - INFO - Start the web application
+2018-04-21 09:10:35,983 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 09:10:36,000 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 09:10:36,000 - __main__ - INFO - Executing requested tests
+2018-04-21 09:10:42,489 - __main__ - INFO - Inserting table data
+2018-04-21 09:10:42,505 - __main__ - INFO - Updating table data
+2018-04-21 09:11:35,111 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/gjggg/
+2018-04-21 09:11:35,111 - __main__ - INFO - Path of the test execution is : gjggg
+2018-04-21 09:11:35,128 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 09:12:05,901 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 09:12:05,901 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 09:12:05,901 - __main__ - INFO - Executing requested tests
+2018-04-21 09:12:12,411 - __main__ - INFO - Inserting table data
+2018-04-21 09:12:12,441 - __main__ - INFO - Updating table data
+2018-04-21 09:12:18,851 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 09:12:18,851 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 09:13:54,082 - __main__ - INFO - Start the web application
+2018-04-21 09:13:54,085 - __main__ - INFO - Start the web application
+2018-04-21 09:29:25,118 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 09:29:25,119 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 09:34:12,111 - __main__ - INFO - Start the web application
+2018-04-21 09:34:57,783 - __main__ - INFO - Start the web application
+2018-04-21 09:34:58,184 - __main__ - INFO - Start the web application
+2018-04-21 10:53:18,157 - __main__ - INFO - Start the web application
+2018-04-21 10:53:18,642 - __main__ - INFO - Start the web application
+2018-04-21 10:53:35,608 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 10:53:35,608 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 10:53:35,608 - __main__ - INFO - Executing requested tests
+2018-04-21 10:53:42,154 - __main__ - INFO - Inserting table data
+2018-04-21 10:53:42,187 - __main__ - INFO - Updating table data
+2018-04-21 10:54:53,342 - __main__ - INFO - Start the web application
+2018-04-21 10:54:57,701 - __main__ - INFO - Start the web application
+2018-04-21 10:55:16,595 - __main__ - INFO - Start the web application
+2018-04-21 10:55:22,085 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 10:55:22,085 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//tests/
+2018-04-21 10:55:22,088 - __main__ - INFO - Executing requested tests
+2018-04-21 10:55:32,844 - __main__ - INFO - Inserting table data
+2018-04-21 10:55:32,877 - __main__ - INFO - Updating table data
+2018-04-21 10:55:33,496 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp//
+2018-04-21 10:55:33,496 - __main__ - INFO - Path of the test execution is : C:\Personal\Quick_Change\assignment\FlaskApp/tests/
+2018-04-21 10:55:33,496 - __main__ - INFO - Executing requested tests
+2018-04-21 10:55:39,901 - __main__ - INFO - Inserting table data
+2018-04-21 10:55:39,920 - __main__ - INFO - Updating table data
+2018-04-21 11:10:43,832 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 11:10:43,832 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 12:11:44,859 - __main__ - INFO - Start the web application
+2018-04-21 12:16:10,076 - __main__ - INFO - Start the web application
+2018-04-21 13:23:26,563 - __main__ - INFO - Start the web application
+2018-04-21 13:42:05,109 - __main__ - INFO - Start the web application
+2018-04-21 13:42:05,192 - __main__ - INFO - Start the web application
+2018-04-21 13:42:47,116 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//tests/
+2018-04-21 13:42:47,117 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//tests/
+2018-04-21 13:42:47,117 - __main__ - INFO - Executing requested tests
+2018-04-21 13:42:55,191 - __main__ - INFO - Inserting table data
+2018-04-21 13:42:55,263 - __main__ - INFO - Updating table data
+2018-04-21 13:43:33,098 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/TYYY/
+2018-04-21 13:43:33,099 - __main__ - INFO - Path of the test execution is : TYYY
+2018-04-21 13:43:33,099 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 13:43:45,012 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 13:43:45,012 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 13:44:08,156 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//
+2018-04-21 13:44:08,156 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/tests/
+2018-04-21 13:44:08,156 - __main__ - INFO - Executing requested tests
+2018-04-21 13:44:14,196 - __main__ - INFO - Inserting table data
+2018-04-21 13:44:14,277 - __main__ - INFO - Updating table data
+2018-04-21 13:49:41,352 - __main__ - INFO - Start the web application
+2018-04-21 13:49:41,413 - __main__ - INFO - Start the web application
+2018-04-21 13:52:58,175 - __main__ - INFO - Start the web application
+2018-04-21 13:52:58,241 - __main__ - INFO - Start the web application
+2018-04-21 13:53:19,310 - __main__ - INFO - Error on fetching data from database is : 'NoneType' object is not iterable
+2018-04-21 13:56:10,706 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//
+2018-04-21 13:56:10,706 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/tests/
+2018-04-21 13:56:10,706 - __main__ - INFO - Executing requested tests
+2018-04-21 13:56:16,776 - __main__ - INFO - Inserting table data
+2018-04-21 13:56:16,845 - __main__ - INFO - Updating table data
+2018-04-21 13:56:49,946 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/hkjhlhlh/
+2018-04-21 13:56:49,947 - __main__ - INFO - Path of the test execution is : hkjhlhlh
+2018-04-21 13:56:49,947 - __main__ - INFO - Path of the test execution is : Relative Path is not valid
+2018-04-21 13:57:37,441 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//tests/
+2018-04-21 13:57:37,442 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//tests/
+2018-04-21 13:57:37,442 - __main__ - INFO - Executing requested tests
+2018-04-21 13:57:45,489 - __main__ - INFO - Inserting table data
+2018-04-21 13:57:45,550 - __main__ - INFO - Updating table data
+2018-04-21 13:57:58,652 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//
+2018-04-21 13:57:58,653 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/tests/
+2018-04-21 13:57:58,653 - __main__ - INFO - Executing requested tests
+2018-04-21 13:58:04,707 - __main__ - INFO - Inserting table data
+2018-04-21 13:58:04,766 - __main__ - INFO - Updating table data
+2018-04-21 14:01:05,669 - __main__ - INFO - Blank line(s) exists.
+2018-04-21 14:01:05,669 - __main__ - INFO - Index Out of Range: list index out of range
+2018-04-21 15:45:55,238 - __main__ - INFO - Start the web application
+2018-04-21 15:45:55,299 - __main__ - INFO - Start the web application
+2018-04-21 15:46:29,176 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp//
+2018-04-21 15:46:29,176 - __main__ - INFO - Path of the test execution is : /home/amitabh/FlaskApp/tests/
+2018-04-21 15:46:29,177 - __main__ - INFO - Executing requested tests
+2018-04-21 15:46:35,249 - __main__ - INFO - Inserting table data
+2018-04-21 15:46:35,311 - __main__ - INFO - Updating table data

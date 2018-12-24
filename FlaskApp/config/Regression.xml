@@ -1,0 +1,9 @@
+<suite name="Regression" verbose="1">
+<data>
+    <tests>
+        <test name="test001.py"></test>
+        <test name="test002.py"></test>
+        <test name="test003.py"></test>
+    </tests>
+</data>
+</suite>
